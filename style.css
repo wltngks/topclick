@@ -1,0 +1,48 @@
+/* Group 260 */
+
+position: absolute;
+width: 1280px;
+height: 158px;
+left: 320px;
+top: 496px;
+
+
+
+/* BG */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1280px;
+height: 158px;
+left: 320px;
+top: 496px;
+
+background: #FFFFFF;
+border: 1px solid #82BFFF;
+box-shadow: 0px 4px 60px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+
+
+
+
+/* Group 250 */
+
+position: absolute;
+width: 0px;
+height: 81.33px;
+left: 591px;
+top: 537.83px;
+
+
+
+/* Line 14 */
+
+position: absolute;
+width: 81.33px;
+height: 0px;
+left: 591px;
+top: 537.83px;
+
+border: 1px solid #C6C6C6;
+transform: rotate(90deg);
